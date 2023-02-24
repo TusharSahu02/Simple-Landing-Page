@@ -19,6 +19,6 @@ https://fonts.google.com/specimen/Inter
 
 ## Deployed link
 
-Netlify : 
+Varcel : 
 
 
