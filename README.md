@@ -24,6 +24,6 @@ https://fonts.google.com/specimen/Inter
 
 ## Deployed link
 
-Varcel : 
+Varcel :  https://simple-landing-page-three.vercel.app/
 
 
